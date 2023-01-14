@@ -1,0 +1,263 @@
+SHORT_FORM_NAME,LONG_FORM_NAME,POLICY_NOTE,POLICY_NOTE_TEXT,GENC_2A_CODE,GENC_3A_CODE,CAPITAL_INDEPENDENT_STATES,ADMINISTRATIVE_CENTER_DEPENDENCIES_OR_AREAS_OF_SPECIAL_SOVEREIGNTY,DIPLOMATIC_RELATIONS_WITH_UNITED_STATES,MEMBER_OF_UNITED_NATIONS,STATUS,SOVEREIGNTY,CHANGE_SINCE_PREVIOUS_LIST,DATE_VERIFIED,SOURCE
+Afghanistan,Islamic Republic of Afghanistan,FALSE,,AF,AFG,Kabul,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Albania,Republic of Albania,FALSE,,AL,ALB,Tirana,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Algeria,People’s Democratic Republic of Algeria,FALSE,,DZ,DZA,Algiers,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Andorra,Principality of Andorra,FALSE,,AD,AND,Andorra la Vella,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Angola,Republic of Angola,FALSE,,AO,AGO,Luanda,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Antigua and Barbuda,Antigua and Barbuda,FALSE,,AG,ATG,Saint John’s,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Argentina,Argentine Republic,FALSE,,AR,ARG,Buenos Aires,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Armenia,Republic of Armenia,FALSE,,AM,ARM,Yerevan,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Australia,Commonwealth of Australia,FALSE,,AU,AUS,Canberra,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Austria,Republic of Austria,FALSE,,AT,AUT,Vienna,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Azerbaijan,Republic of Azerbaijan,FALSE,,AZ,AZE,Baku,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+"Bahamas, The ",Commonwealth of The Bahamas,FALSE,,BS,BHS,Nassau,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Bahrain,Kingdom of Bahrain,FALSE,,BH,BHR,Manama,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Bangladesh,People’s Republic of Bangladesh,FALSE,,BD,BGD,Dhaka,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Barbados,Barbados,FALSE,,BB,BRB,Bridgetown,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Belarus,Republic of Belarus,FALSE,,BY,BLR,Minsk,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Belgium,Kingdom of Belgium,FALSE,,BE,BEL,Brussels,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Belize,Belize,FALSE,,BZ,BLZ,Belmopan,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Benin,Republic of Benin,FALSE,,BJ,BEN,Porto-Novo; Cotonou (seat of government),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Bhutan,Kingdom of Bhutan,FALSE,,BT,BTN,Thimphu,,FALSE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Bolivia,Plurinational State of Bolivia,FALSE,,BO,BOL,La Paz (administrative); Sucre (legislative/judiciary),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Bosnia and Herzegovina,Bosnia and Herzegovina,FALSE,,BA,BIH,Sarajevo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Botswana,Republic of Botswana,FALSE,,BW,BWA,Gaborone,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Brazil,Federative Republic of Brazil,FALSE,,BR,BRA,Brasília,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Brunei,Brunei Darussalam,FALSE,,BN,BRN,Bandar Seri Begawan,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Bulgaria,Republic of Bulgaria,FALSE,,BG,BGR,Sofia,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Burkina Faso,Burkina Faso,FALSE,,BF,BFA,Ouagadougou,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Burma,Union of Burma,FALSE,,MM,MMR,Rangoon; Nay Pyi Taw (administrative),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Burundi,Republic of Burundi,FALSE,,BI,BDI,Bujumbura; Gitega (political),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Cabo Verde,Republic of Cabo Verde,FALSE,,CV,CPV,Praia,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Cambodia ,Kingdom of Cambodia,FALSE,,KH,KHM,Phnom Penh,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Cameroon,Republic of Cameroon,FALSE,,CM,CMR,Yaoundé,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Canada,Canada,FALSE,,CA,CAN,Ottawa,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Central African Republic,Central African Republic,FALSE,,CF,CAF,Bangui,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Chad,Republic of Chad,FALSE,,TD,TCD,N’Djamena,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Chile,Republic of Chile,FALSE,,CL,CHL,Santiago,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+China,People’s Republic of China,TRUE,"With the establishment of diplomatic relations with China on January 1, 1979, the US Government recognized the People’s Republic of China as the sole legal government of China and acknowledged the Chinese position that there is only one China and that Taiwan is part of China.",CN,CHN,Beijing,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Colombia,Republic of Colombia,FALSE,,CO,COL,Bogotá,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Comoros,Union of the Comoros,FALSE,,KM,COM,Moroni,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Congo (Brazzaville),Republic of the Congo,TRUE,"“Congo” is the official short-form name for both the Republic of the Congo and the Democratic Republic of the Congo. To distinguish one from the other, the U.S. Department of State adds the capital in parentheses. This practice is unofficial and provisional.",CG,COG,Brazzaville,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Congo (Kinshasa),Democratic Republic of the Congo,TRUE,"“Congo” is the official short-form name for both the Republic of the Congo and the Democratic Republic of the Congo. To distinguish one from the other, the U.S. Department of State adds the capital in parentheses. This practice is unofficial and provisional.",CD,COD,Kinshasa,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Costa Rica ,Republic of Costa Rica,FALSE,,CR,CRI,San José,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Côte d’Ivoire ,Republic of Côte d’Ivoire,FALSE,,CI,CIV,Yamoussoukro; Abidjan (seat of government),,TRUE,TRUE,Independent,,TRUE,20221213,DOS/INR/GGI
+Croatia,Republic of Croatia,FALSE,,HR,HRV,Zagreb,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Cuba,Republic of Cuba,FALSE,,CU,CUB,Havana,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Cyprus,Republic of Cyprus,FALSE,,CY,CYP,Nicosia,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Czechia,Czech Republic,FALSE,,CZ,CZE,Prague,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Denmark,Kingdom of Denmark,FALSE,,DK,DNK,Copenhagen,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Djibouti,Republic of Djibouti,FALSE,,DJ,DJI,Djibouti,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Dominica,Commonwealth of Dominica,FALSE,,DM,DMA,Roseau,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Dominican Republic ,Dominican Republic,FALSE,,DO,DOM,Santo Domingo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Ecuador ,Republic of Ecuador,FALSE,,EC,ECU,Quito,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Egypt ,Arab Republic of Egypt,FALSE,,EG,EGY,Cairo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+El Salvador ,Republic of El Salvador,FALSE,,SV,SLV,San Salvador,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Equatorial Guinea ,Republic of Equatorial Guinea,FALSE,,GQ,GNQ,Malabo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Eritrea,State of Eritrea,FALSE,,ER,ERI,Asmara,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Estonia,Republic of Estonia,FALSE,,EE,EST,Tallinn,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Eswatini,Kingdom of Eswatini,FALSE,,SZ,SWZ,Mbabane (administrative); Lobamba (legislative),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Ethiopia,Federal Democratic Republic of Ethiopia,FALSE,,ET,ETH,Addis Ababa,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Fiji,Republic of Fiji,FALSE,,FJ,FJI,Suva,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Finland,Republic of Finland,FALSE,,FI,FIN,Helsinki,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+France,French Republic,FALSE,,FR,FRA,Paris,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Gabon,Gabonese Republic,FALSE,,GA,GAB,Libreville,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+"Gambia, The ",Republic of The Gambia,FALSE,,GM,GMB,Banjul,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Georgia,Georgia,FALSE,,GE,GEO,Tbilisi,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Germany,Federal Republic of Germany,FALSE,,DE,DEU,Berlin,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Ghana,Republic of Ghana,FALSE,,GH,GHA,Accra,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Greece,Hellenic Republic,FALSE,,GR,GRC,Athens,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Grenada,Grenada,FALSE,,GD,GRD,Saint George’s,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Guatemala,Republic of Guatemala,FALSE,,GT,GTM,Guatemala City,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Guinea,Republic of Guinea,FALSE,,GN,GIN,Conakry,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Guinea-Bissau ,Republic of Guinea-Bissau,FALSE,,GW,GNB,Bissau,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Guyana,Co-operative Republic of Guyana,FALSE,,GY,GUY,Georgetown,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Haiti,Republic of Haiti,FALSE,,HT,HTI,Port-au-Prince,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Holy See ,Holy See,FALSE,,VA,VAT,Vatican City,,TRUE,FALSE,Independent,,FALSE,20221213,DOS/INR/GGI
+Honduras,Republic of Honduras,FALSE,,HN,HND,Tegucigalpa,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Hungary,Hungary,FALSE,,HU,HUN,Budapest,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Iceland,Iceland,FALSE,,IS,ISL,Reykjavík,,TRUE,TRUE,Independent,,TRUE,20221213,DOS/INR/GGI
+India,Republic of India,FALSE,,IN,IND,New Delhi,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Indonesia,Republic of Indonesia,FALSE,,ID,IDN,Jakarta,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Iran,Islamic Republic of Iran,FALSE,,IR,IRN,Tehran,,FALSE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Iraq,Republic of Iraq,FALSE,,IQ,IRQ,Baghdad,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Ireland,Ireland,FALSE,,IE,IRL,Dublin,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Israel,State of Israel,FALSE,,IL,ISR,Jerusalem,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Italy,Italian Republic,FALSE,,IT,ITA,Rome,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Jamaica,Jamaica,FALSE,,JM,JAM,Kingston,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Japan,Japan,FALSE,,JP,JPN,Tokyo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Jordan,Hashemite Kingdom of Jordan,FALSE,,JO,JOR,Amman,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Kazakhstan,Republic of Kazakhstan,FALSE,,KZ,KAZ,Astana,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Kenya,Republic of Kenya,FALSE,,KE,KEN,Nairobi,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Kiribati,Republic of Kiribati,FALSE,,KI,KIR,Tarawa,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+"Korea, North ",Democratic People’s Republic of Korea,FALSE,,KP,PRK,Pyongyang,,FALSE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+"Korea, South ",Republic of Korea,FALSE,,KR,KOR,Seoul,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Kosovo ,Republic of Kosovo,FALSE,,XK,XKS,Pristina,,TRUE,FALSE,Independent,,FALSE,20221213,DOS/INR/GGI
+Kuwait,State of Kuwait,FALSE,,KW,KWT,Kuwait City,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Kyrgyzstan,Kyrgyz Republic,FALSE,,KG,KGZ,Bishkek,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Laos,Lao People’s Democratic Republic,FALSE,,LA,LAO,Vientiane,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Latvia,Republic of Latvia,FALSE,,LV,LVA,Riga,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Lebanon,Lebanese Republic,FALSE,,LB,LBN,Beirut,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Lesotho,Kingdom of Lesotho,FALSE,,LS,LSO,Maseru,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Liberia,Republic of Liberia,FALSE,,LR,LBR,Monrovia,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Libya,State of Libya,FALSE,,LY,LBY,Tripoli,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Liechtenstein,Principality of Liechtenstein,FALSE,,LI,LIE,Vaduz,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Lithuania,Republic of Lithuania,FALSE,,LT,LTU,Vilnius,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Luxembourg,Grand Duchy of Luxembourg,FALSE,,LU,LUX,Luxembourg,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Madagascar,Republic of Madagascar,FALSE,,MG,MDG,Antananarivo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Malawi,Republic of Malawi,FALSE,,MW,MWI,Lilongwe,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Malaysia,Malaysia,FALSE,,MY,MYS,Kuala Lumpur; Putrajaya (administrative),,TRUE,TRUE,Independent,,TRUE,20221213,DOS/INR/GGI
+Maldives,Republic of Maldives,FALSE,,MV,MDV,Male,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Mali,Republic of Mali,FALSE,,ML,MLI,Bamako,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Malta,Republic of Malta,FALSE,,MT,MLT,Valletta,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Marshall Islands ,Republic of the Marshall Islands,FALSE,,MH,MHL,Majuro,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Mauritania,Islamic Republic of Mauritania,FALSE,,MR,MRT,Nouakchott,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Mauritius,Republic of Mauritius,FALSE,,MU,MUS,Port Louis,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Mexico,United Mexican States,FALSE,,MX,MEX,Mexico City,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+"Micronesia, Federated States of",Federated States of Micronesia,FALSE,,FM,FSM,Palikir,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Moldova,Republic of Moldova,FALSE,,MD,MDA,Chisinau,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Monaco,Principality of Monaco,FALSE,,MC,MCO,Monaco,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Mongolia,Mongolia,FALSE,,MN,MNG,Ulaanbaatar,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Montenegro,Montenegro,FALSE,,ME,MNE,Podgorica,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Morocco,Kingdom of Morocco,FALSE,,MA,MAR,Rabat,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Mozambique,Republic of Mozambique,FALSE,,MZ,MOZ,Maputo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Namibia,Republic of Namibia,FALSE,,NA,NAM,Windhoek,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Nauru,Republic of Nauru,FALSE,,NR,NRU,Yaren District; (no capital city),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Nepal,Nepal,FALSE,,NP,NPL,Kathmandu,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Netherlands,Kingdom of the Netherlands,FALSE,,NL,NLD,Amsterdam; The Hague (seat of government),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+New Zealand ,New Zealand,FALSE,,NZ,NZL,Wellington,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Nicaragua,Republic of Nicaragua,FALSE,,NI,NIC,Managua,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Niger,Republic of Niger,FALSE,,NE,NER,Niamey,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Nigeria,Federal Republic of Nigeria,FALSE,,NG,NGA,Abuja,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+North Macedonia ,Republic of North Macedonia,FALSE,,MK,MKD,Skopje,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Norway,Kingdom of Norway,FALSE,,NO,NOR,Oslo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Oman,Sultanate of Oman,FALSE,,OM,OMN,Muscat,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Pakistan,Islamic Republic of Pakistan,FALSE,,PK,PAK,Islamabad,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Palau,Republic of Palau,FALSE,,PW,PLW,Ngerulmud,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Panama,Republic of Panama,FALSE,,PA,PAN,Panama City,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Papua New Guinea ,Independent State of Papua New Guinea,FALSE,,PG,PNG,Port Moresby,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Paraguay,Republic of Paraguay,FALSE,,PY,PRY,Asunción,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Peru,Republic of Peru,FALSE,,PE,PER,Lima,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Philippines,Republic of the Philippines,FALSE,,PH,PHL,Manila,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Poland,Republic of Poland,FALSE,,PL,POL,Warsaw,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Portugal,Portuguese Republic,FALSE,,PT,PRT,Lisbon,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Qatar,State of Qatar,FALSE,,QA,QAT,Doha,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Romania,Romania,FALSE,,RO,ROU,Bucharest,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Russia,Russian Federation,FALSE,,RU,RUS,Moscow,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Rwanda,Republic of Rwanda,FALSE,,RW,RWA,Kigali,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Saint Kitts and Nevis ,Federation of Saint Kitts and Nevis,FALSE,,KN,KNA,Basseterre,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Saint Lucia,Saint Lucia,FALSE,,LC,LCA,Castries,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Saint Vincent and the Grenadines ,Saint Vincent and the Grenadines,FALSE,,VC,VCT,Kingstown,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Samoa,Independent State of Samoa,FALSE,,WS,WSM,Apia,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+San Marino ,Republic of San Marino,FALSE,,SM,SMR,San Marino,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Sao Tome and Principe ,Democratic Republic of Sao Tome and Principe,FALSE,,ST,STP,São Tomé,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Saudi Arabia ,Kingdom of Saudi Arabia,FALSE,,SA,SAU,Riyadh,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Senegal,Republic of Senegal,FALSE,,SN,SEN,Dakar,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Serbia,Republic of Serbia,FALSE,,RS,SRB,Belgrade,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Seychelles,Republic of Seychelles,FALSE,,SC,SYC,Victoria,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Sierra Leone ,Republic of Sierra Leone,FALSE,,SL,SLE,Freetown,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Singapore,Republic of Singapore,FALSE,,SG,SGP,Singapore,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Slovakia,Slovak Republic,FALSE,,SK,SVK,Bratislava,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Slovenia,Republic of Slovenia,FALSE,,SI,SVN,Ljubljana,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Solomon Islands ,Solomon Islands,FALSE,,SB,SLB,Honiara,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Somalia,Federal Republic of Somalia,FALSE,,SO,SOM,Mogadishu,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+South Africa ,Republic of South Africa,FALSE,,ZA,ZAF,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+South Sudan ,Republic of South Sudan,FALSE,,SS,SSD,Juba,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Spain,Kingdom of Spain,FALSE,,ES,ESP,Madrid,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Sri Lanka ,Democratic Socialist Republic of Sri Lanka,FALSE,,LK,LKA,Colombo; Sri Jayewardenepura Kotte (legislative),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Sudan,Republic of the Sudan,FALSE,,SD,SDN,Khartoum,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Suriname,Republic of Suriname,FALSE,,SR,SUR,Paramaribo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Sweden,Kingdom of Sweden,FALSE,,SE,SWE,Stockholm,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Switzerland,Swiss Confederation,FALSE,,CH,CHE,Bern,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Syria,Syrian Arab Republic,FALSE,,SY,SYR,Damascus,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Tajikistan,Republic of Tajikistan,FALSE,,TJ,TJK,Dushanbe,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Tanzania,United Republic of Tanzania,FALSE,,TZ,TZA,Dar es Salaam; Dodoma (legislative),,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Thailand,Kingdom of Thailand,FALSE,,TH,THA,Bangkok,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Timor-Leste ,Democratic Republic of Timor-Leste,FALSE,,TL,TLS,Dili,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Togo,Togolese Republic,FALSE,,TG,TGO,Lomé,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Tonga,Kingdom of Tonga,FALSE,,TO,TON,Nuku’alofa,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Trinidad and Tobago,Republic of Trinidad and Tobago,FALSE,,TT,TTO,Port of Spain,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Tunisia,Republic of Tunisia,FALSE,,TN,TUN,Tunis,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Turkey,Republic of Turkey,TRUE,"The official conventional long-form and short-form names remain “Republic of Turkey” and “Turkey”, respectively. ""Republic of Türkiye"" should be used in formal and diplomatic contexts. The conventional names may be used in place of or alongside “Türkiye” in appropriate instances, including U.S. government cartographic products, as it is more widely understood by the American public.",TR,TUR,Ankara,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Turkmenistan,Turkmenistan,FALSE,,TM,TKM,Ashgabat,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Tuvalu,Tuvalu,FALSE,,TV,TUV,Funafuti,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Uganda,Republic of Uganda,FALSE,,UG,UGA,Kampala,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Ukraine,Ukraine,FALSE,,UA,UKR,Kyiv,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+United Arab Emirates ,United Arab Emirates,FALSE,,AE,ARE,Abu Dhabi,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+United Kingdom ,United Kingdom of Great Britain and Northern Ireland,FALSE,,GB,GBR,London,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+United States ,United States of America,FALSE,,US,USA,"Washington, DC",,,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Uruguay,Oriental Republic of Uruguay,FALSE,,UY,URY,Montevideo,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Uzbekistan,Republic of Uzbekistan,FALSE,,UZ,UZB,Tashkent,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Vanuatu,Republic of Vanuatu,FALSE,,VU,VUT,Port-Vila,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Venezuela,Bolivarian Republic of Venezuela,FALSE,,VE,VEN,Caracas,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Vietnam,Socialist Republic of Vietnam,FALSE,,VN,VNM,Hanoi,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Yemen,Republic of Yemen,FALSE,,YE,YEM,Sanaa,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Zambia,Republic of Zambia,FALSE,,ZM,ZMB,Lusaka,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Zimbabwe,Republic of Zimbabwe,FALSE,,ZW,ZWE,Harare,,TRUE,TRUE,Independent,,FALSE,20221213,DOS/INR/GGI
+Taiwan ,(no long-form name),TRUE,"Claimed by both the Government of the People’s Republic of China and the authorities on Taiwan. Administered by the authorities on Taiwan. With the establishment of diplomatic relations with China on January 1, 1979, the US Government recognized the People’s Republic of China as the sole legal government of China and acknowledged the Chinese position that there is only one China and that Taiwan is part of China.",TW,TWN,,Taipei,,,Other,,FALSE,20221213,DOS/INR/GGI
+Akrotiri ,Akrotiri,TRUE,"United Kingdom sovereign base area on the island of Cyprus. The joint force headquarters, under the Commander of the British Forces Cyprus, administers both sovereign base areas from Episkopi.",QZ,XQZ,,Episkopi ,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+American Samoa,Territory of American Samoa,FALSE,,AS,ASM,,Pago Pago,,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Anguilla,Anguilla,FALSE,,AI,AIA,,The Valley,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Antarctica,(no long-form name),TRUE,"Antarctica consists of the territory south of 60 degrees south latitude. This area includes claims by Argentina, Australia, Chile, France, New Zealand, Norway, and the United Kingdom, the legal status of which remains in suspense under the terms of the Antarctic Treaty of 1959. The United States recognizes no claims to Antarctica.",AQ,ATA,,None ,,,Dependency or Area of Special Sovereignty,None,FALSE,20221213,DOS/INR/GGI
+Aruba,Country of Aruba,FALSE,,AW,ABW,,Oranjestad,,,Dependency or Area of Special Sovereignty,Netherlands,FALSE,20221213,DOS/INR/GGI
+Ashmore and Cartier Islands,Territory of Ashmore and Cartier Islands,FALSE,,XA,XAC,,Administered from Canberra,,,Dependency or Area of Special Sovereignty,Australia,FALSE,20221213,DOS/INR/GGI
+Baker Island,Baker Island,FALSE,,XB,XBK,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Bermuda,Bermuda,FALSE,,BM,BMU,,Hamilton,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Bouvet Island,Bouvet Island,FALSE,,BV,BVT,,Administered from Oslo,,,Dependency or Area of Special Sovereignty,Norway,FALSE,20221213,DOS/INR/GGI
+British Indian Ocean Territory ,British Indian Ocean Territory,TRUE,Chagos Archipelago (including Diego Garcia).,IO,IOT,,None,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Cayman Islands,Cayman Islands,FALSE,,KY,CYM,,George Town,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Christmas Island,Territory of Christmas Island,FALSE,,CX,CXR,,The Settlement (Flying Fish Cove),,,Dependency or Area of Special Sovereignty,Australia,FALSE,20221213,DOS/INR/GGI
+Clipperton Island,Clipperton Island,FALSE,,CP,CPT,,Administered from Paris,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
+Cocos (Keeling) Islands,Territory of Cocos (Keeling) Islands,FALSE,,CC,CCK,,West Island,,,Dependency or Area of Special Sovereignty,Australia,FALSE,20221213,DOS/INR/GGI
+Cook Islands,Cook Islands,FALSE,,CK,COK,,Avarua,,,Dependency or Area of Special Sovereignty,New Zealand,FALSE,20221213,DOS/INR/GGI
+Coral Sea Islands,Coral Sea Islands Territory,FALSE,,XC,XCS,,Administered from Canberra,,,Dependency or Area of Special Sovereignty,Australia,FALSE,20221213,DOS/INR/GGI
+Curaçao ,Country of Curaçao,TRUE,"The Netherlands Antilles dissolved on October 10, 2010. Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin) became autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and Sint Eustatius now fall under the direct administration of the Netherlands.",CW,CUW,,Willemstad,,,Dependency or Area of Special Sovereignty,Netherlands,FALSE,20221213,DOS/INR/GGI
+Dhekelia ,Dhekelia,TRUE,"United Kingdom sovereign base area on the island of Cyprus. The joint force headquarters, under the Commander of the British Forces Cyprus, administers both sovereign base areas from Episkopi.",XD,XXD,,Episkopi ,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Falkland Islands (Islas Malvinas),Falkland Islands (Islas Malvinas),TRUE,"Administered by the United Kingdom, claimed by Argentina.",FK,FLK,,Stanley,,,Dependency or Area of Special Sovereignty,United Kingdom ,FALSE,20221213,DOS/INR/GGI
+Faroe Islands,Faroe Islands,FALSE,,FO,FRO,,Tórshavn,,,Dependency or Area of Special Sovereignty,Denmark,FALSE,20221213,DOS/INR/GGI
+French Guiana ,,TRUE,"French Guiana, Guadeloupe, Martinique, Mayotte and Reunion are first-order administrative divisions of overseas France, and are therefore not dependencies or areas of special sovereignty. They are included in this list only for the convenience of the user. The Department of Guadeloupe includes the nearby islands of Marie-Galante, La Desirade, and Iles des Saintes.",GF,GUF,,,,,Dependency or Area of Special Sovereignty,,FALSE,20221213,DOS/INR/GGI
+French Polynesia,French Polynesia,FALSE,,PF,PYF,,Papeete,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
+French Southern and Antarctic Lands ,French Southern and Antarctic Lands,TRUE,"The French Southern and Antarctic Lands includes Île Amsterdam, Île Saint-Paul, Îles Crozet, and Îles Kerguelen in the southern Indian Ocean; the “Iles Eparses” (Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island and Tromelin Island) in the Mozambique Channel and western Indian Ocean; and the French-claimed sector of Antarctica, “Terre Adélie.” The United States does not recognize the French claim to “Terre Adélie” (see Antarctica note).",TF,ATF,,Administered from Paris,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
+Gibraltar,Gibraltar,FALSE,,GI,GIB,,Gibraltar,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Greenland,Greenland,FALSE,,GL,GRL,,Nuuk (Godthåb),,,Dependency or Area of Special Sovereignty,Denmark,FALSE,20221213,DOS/INR/GGI
+Guadeloupe ,,TRUE,"French Guiana, Guadeloupe, Martinique, Mayotte and Reunion are first-order administrative divisions of overseas France, and are therefore not dependencies or areas of special sovereignty. They are included in this list only for the convenience of the user. The Department of Guadeloupe includes the nearby islands of Marie-Galante, La Desirade, and Iles des Saintes.",GP,GLP,,,,,Dependency or Area of Special Sovereignty,,FALSE,20221213,DOS/INR/GGI
+Guam,Territory of Guam,FALSE,,GU,GUM,,Hagatna,,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Guernsey ,Bailiwick of Guernsey,TRUE,"The Bailiwick of Guernsey includes the islands of Alderney, Guernsey, Herm, Sark, and nearby smaller islands.",GG,GGY,,Saint Peter Port,,,Dependency or Area of Special Sovereignty,British Crown Dependency,FALSE,20221213,DOS/INR/GGI
+Heard Island and McDonald Islands,Territory of Heard Island and McDonald Islands,FALSE,,HM,HMD,,Administered from Canberra,,,Dependency or Area of Special Sovereignty,Australia,FALSE,20221213,DOS/INR/GGI
+Hong Kong,Hong Kong Special Administrative Region,TRUE,"Under a Sino-British declaration of September 1984, Hong Kong reverted to Chinese control on July 1, 1997. It is now a semi-autonomous entity that exists pursuant to international agreement and maintains its own government apart from the People’s Republic of China.",HK,HKG,,None,,,Dependency or Area of Special Sovereignty,China ,FALSE,20221213,DOS/INR/GGI
+Howland Island,Howland Island,FALSE,,XH,XHO,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Isle of Man,Isle of Man,FALSE,,IM,IMN,,Douglas,,,Dependency or Area of Special Sovereignty,British Crown Dependency,FALSE,20221213,DOS/INR/GGI
+Jan Mayen,Jan Mayen,TRUE,"Administered from Oslo, Norway, through a governor resident in Longyearbyen, Svalbard.",XJ,XJM,,Administered from Oslo ,,,Dependency or Area of Special Sovereignty,Norway,FALSE,20221213,DOS/INR/GGI
+Jarvis Island,Jarvis Island,FALSE,,XQ,XJV,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Jersey,Bailiwick of Jersey,FALSE,,JE,JEY,,Saint Helier,,,Dependency or Area of Special Sovereignty,British Crown Dependency,FALSE,20221213,DOS/INR/GGI
+Johnston Atoll,Johnston Atoll,FALSE,,XU,XJA,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Kingman Reef,Kingman Reef,FALSE,,XM,XKR,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Macau,Macau Special Administrative Region,TRUE,"Under the Sino-Portuguese Joint Declaration on the Question of Macau signed in 1987, Macau reverted to Chinese control on December 20, 1999. It is now a semi-autonomous entity that exists pursuant to international agreement and maintains its own government apart from the People’s Republic of China.",MO,MAC,,Macau,,,Dependency or Area of Special Sovereignty,China ,FALSE,20221213,DOS/INR/GGI
+Martinique ,,TRUE,"French Guiana, Guadeloupe, Martinique, Mayotte and Reunion are first-order administrative divisions of overseas France, and are therefore not dependencies or areas of special sovereignty. They are included in this list only for the convenience of the user. The Department of Guadeloupe includes the nearby islands of Marie-Galante, La Desirade, and Iles des Saintes.",MQ,MTQ,,,,,Dependency or Area of Special Sovereignty,,FALSE,20221213,DOS/INR/GGI
+Mayotte ,,TRUE,"French Guiana, Guadeloupe, Martinique, Mayotte and Reunion are first-order administrative divisions of overseas France, and are therefore not dependencies or areas of special sovereignty. They are included in this list only for the convenience of the user. The Department of Guadeloupe includes the nearby islands of Marie-Galante, La Desirade, and Iles des Saintes.",YT,MYT,,,,,Dependency or Area of Special Sovereignty,,FALSE,20221213,DOS/INR/GGI
+Midway Islands,Midway Islands,FALSE,,QM,XMW,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Montserrat,Montserrat,FALSE,,MS,MSR,,Plymouth,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Navassa Island,Navassa Island,FALSE,,XV,XNV,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+New Caledonia,New Caledonia,FALSE,,NC,NCL,,Nouméa,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
+Niue,Niue,FALSE,,NU,NIU,,Alofi,,,Dependency or Area of Special Sovereignty,New Zealand,FALSE,20221213,DOS/INR/GGI
+Norfolk Island,Territory of Norfolk Island,FALSE,,NF,NFK,,Kingston,,,Dependency or Area of Special Sovereignty,Australia,FALSE,20221213,DOS/INR/GGI
+Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,FALSE,,MP,MNP,,Saipan,,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Palmyra Atoll,Palmyra Atoll,FALSE,,XL,XPL,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Paracel Islands,(no long-form name),TRUE,South China Sea islands occupied by China but claimed by Vietnam.,XP,XPR,,None,,,Dependency or Area of Special Sovereignty,Undetermined ,FALSE,20221213,DOS/INR/GGI
+Pitcairn Islands,"Pitcairn, Henderson, Ducie, and Oeno Islands",FALSE,,PN,PCN,,Adamstown,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Puerto Rico,Commonwealth of Puerto Rico,FALSE,,PR,PRI,,San Juan,,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Reunion ,,TRUE,"French Guiana, Guadeloupe, Martinique, Mayotte and Reunion are first-order administrative divisions of overseas France, and are therefore not dependencies or areas of special sovereignty. They are included in this list only for the convenience of the user. The Department of Guadeloupe includes the nearby islands of Marie-Galante, La Desirade, and Iles des Saintes.",RE,REU,,,,,Dependency or Area of Special Sovereignty,,FALSE,20221213,DOS/INR/GGI
+Saint Barthelemy,Saint Barthelemy,FALSE,,BL,BLM,,Gustavia,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
+"Saint Helena, Ascension, and Tristan da Cunha ","Saint Helena, Ascension, and Tristan da Cunha",TRUE,The territory of Saint Helena includes the island group of Tristan da Cunha and Ascension Island.,SH,SHN,,Jamestown,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+Saint Martin ,Saint Martin,TRUE,"The island of Saint Martin is divided: the northern three-fifths form the French collectivity of Saint-Martin, while the southern two-fifths (Sint Maarten) is an autonomous territory of the Kingdom of the Netherlands.",MF,MAF,,Marigot,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
+Saint Pierre and Miquelon,Territorial Collectivity of Saint Pierre and Miquelon,FALSE,,PM,SPM,,Saint-Pierre,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
+Sint Maarten,Country of Sint Maarten,FALSE,,SX,SXM,,Philipsburg,,,Dependency or Area of Special Sovereignty,Netherlands,FALSE,20221213,DOS/INR/GGI
+South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,TRUE,U.K. Overseas Territory (also claimed by Argentina).,GS,SGS,,None,,,Dependency or Area of Special Sovereignty,United Kingdom ,FALSE,20221213,DOS/INR/GGI
+Spratly Islands,(no long-form name),TRUE,"South China Sea islands claimed in entirety by China and Vietnam and in part by Brunei, the Philippines and Malaysia; each of these states occupies some part of the islands.",XS,XSP,,None,,,Dependency or Area of Special Sovereignty,Undetermined ,FALSE,20221213,DOS/INR/GGI
+Svalbard,Svalbard,FALSE,,XR,XSV,,Longyearbyen,,,Dependency or Area of Special Sovereignty,Norway,FALSE,20221213,DOS/INR/GGI
+Tokelau,Tokelau,FALSE,,TK,TKL,,None,,,Dependency or Area of Special Sovereignty,New Zealand,FALSE,20221213,DOS/INR/GGI
+Turks and Caicos Islands,Turks and Caicos Islands,FALSE,,TC,TCA,,Grand Turk,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+"Virgin Islands, British",British Virgin Islands,FALSE,,VG,VGB,,Road Town,,,Dependency or Area of Special Sovereignty,United Kingdom,FALSE,20221213,DOS/INR/GGI
+"Virgin Islands, U.S.",United States Virgin Islands,FALSE,,VI,VIR,,Charlotte Amalie,,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Wake Island,Wake Island,FALSE,,QW,XWK,,"Administered from Washington, D.C.",,,Dependency or Area of Special Sovereignty,United States,FALSE,20221213,DOS/INR/GGI
+Wallis and Futuna,Wallis and Futuna,FALSE,,WF,WLF,,Mata-Utu,,,Dependency or Area of Special Sovereignty,France,FALSE,20221213,DOS/INR/GGI
